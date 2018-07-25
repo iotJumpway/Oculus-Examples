@@ -1,0 +1,1264 @@
+﻿Log file open, 07/24/18 23:22:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: vrAIretail
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-903576167) SRandInit(-903576167).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.257775
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.932s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-3B3FS1J (192.168.1.45:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.24-21.22.43:603][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.24-21.22.43:603][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.24-21.22.43:610][  0]LogInit: Computer: DESKTOP-3B3FS1J
+[2018.07.24-21.22.43:610][  0]LogInit: User: intelvr1
+[2018.07.24-21.22.43:610][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.24-21.22.43:610][  0]LogInit: High frequency timer resolution =2.835934 MHz
+[2018.07.24-21.22.43:611][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.07.24-21.22.43:611][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.24-21.22.43:611][  0]LogMemory: Process Physical Memory: 281.45 MB used, 281.45 MB peak
+[2018.07.24-21.22.43:611][  0]LogMemory: Process Virtual Memory: 271.54 MB used, 271.54 MB peak
+[2018.07.24-21.22.43:611][  0]LogMemory: Physical Memory: 9031.36 MB used,  23689.36 MB free, 32720.71 MB total
+[2018.07.24-21.22.43:611][  0]LogMemory: Virtual Memory: 4833.56 MB used,  23689.36 MB free, 134217728.00 MB total
+[2018.07.24-21.22.43:886][  0]LogInit: Using OS detected language (en-US).
+[2018.07.24-21.22.43:886][  0]LogInit: Using OS detected locale (en-US).
+[2018.07.24-21.22.43:888][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.24-21.22.44:217][  0]LogStreaming: Display: Took  0.331s to EndInitTextLocalization.
+[2018.07.24-21.22.44:217][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.24-21.22.44:248][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.24-21.22.44:248][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.24-21.22.44:397][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.24-21.22.44:935][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.07.24-21.22.44:935][  0]LogD3D11RHI:       8110/0/16360 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.07.24-21.22.44:937][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.24-21.22.44:937][  0]LogD3D11RHI:       0/0/16360 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.24-21.22.44:937][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.24-21.22.44:942][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.24-21.22.44:942][  0]LogD3D11RHI:     GPU DeviceId: 0x1be0 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.24-21.22.44:942][  0]LogWindows: EnumDisplayDevices:
+[2018.07.24-21.22.44:942][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.07.24-21.22.44:943][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.07.24-21.22.44:943][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.07.24-21.22.44:943][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.07.24-21.22.44:943][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.24-21.22.44:943][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.07.24-21.22.44:943][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.24-21.22.44:943][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.24-21.22.44:943][  0]LogRHI: Texture pool is 5677 MB (70% of 8110 MB)
+[2018.07.24-21.22.45:413][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.07.24-21.22.45:413][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.24-21.22.45:413][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.24-21.22.45:439][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.07.24-21.22.45:481][  0]LogShaderCompilers: Guid format shader working directory is -44 characters bigger than the processId version (../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Intermediate/Shaders/WorkingDirectory/8756/).
+[2018.07.24-21.22.45:482][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/intel-vr-1/AppData/Local/Temp/UnrealShaderWorkingDir/98681CBC47DD10CD3511CD943E157CB8/'.
+[2018.07.24-21.22.45:676][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.24-21.22.45:687][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.24-21.22.45:697][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.24-21.22.45:708][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.24-21.22.45:718][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.24-21.22.45:729][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.24-21.22.45:738][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.24-21.22.45:748][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.24-21.22.45:754][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.24-21.22.45:763][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.24-21.22.45:773][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.24-21.22.45:782][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.24-21.22.45:791][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.24-21.22.45:800][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.24-21.22.45:809][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.24-21.22.45:827][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.24-21.22.45:827][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.24-21.22.45:836][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.24-21.22.45:837][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.24-21.22.45:871][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.24-21.22.45:880][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.24-21.22.45:889][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.24-21.22.45:898][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.24-21.22.45:907][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.24-21.22.45:916][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.24-21.22.45:916][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.24-21.22.46:005][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.24-21.22.46:005][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.24-21.22.46:005][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.24-21.22.46:499][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.24-21.22.46:551][  0]LogDerivedDataCache: Loaded boot cache 0.05s 88MB C:/Users/intel-vr-1/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.24-21.22.46:551][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/intel-vr-1/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.24-21.22.46:551][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.24-21.22.46:551][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.24-21.22.46:551][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.24-21.22.46:551][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.24-21.22.46:564][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.24-21.22.46:576][  0]LogDerivedDataCache: Using Local data cache path C:/Users/intel-vr-1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.24-21.22.46:576][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.24-21.22.46:576][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.24-21.22.46:584][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.24-21.22.46:585][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.24-21.22.46:585][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.24-21.22.46:585][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.24-21.22.46:688][  0]LogAssetRegistry: FAssetRegistry took 0.0249 seconds to start up
+[2018.07.24-21.22.46:942][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.24-21.22.47:057][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.24-21.22.47:060][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.24-21.22.47:060][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.24-21.22.47:060][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.24-21.22.47:060][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.24-21.22.47:060][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.24-21.22.47:084][  0]LogNetVersion: vrAIretail , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2301681690)
+[2018.07.24-21.22.47:487][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.115450 seconds
+[2018.07.24-21.22.47:492][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.24-21.22.47:492][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.07.24-21.22.47:492][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.24-21.22.48:819][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.24-21.22.48:854][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.24-21.22.49:151][  0]SourceControl: Source control is disabled
+[2018.07.24-21.22.49:151][  0]SourceControl: Source control is disabled
+[2018.07.24-21.22.49:166][  0]SourceControl: Source control is disabled
+[2018.07.24-21.22.49:181][  0]SourceControl: Source control is disabled
+[2018.07.24-21.22.49:593][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.24-21.22.49:732][  0]LogOcInput: OculusInput pre-init called
+[2018.07.24-21.22.49:818][  0]LogEngine: Initializing Engine...
+[2018.07.24-21.22.49:818][  0]LogHMD: Oculus plugin initialized. Version: 4.19.2-4033788+++UE4+Release-4.19, OVRPlugin: 1.21.0
+[2018.07.24-21.22.49:819][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.24-21.22.49:819][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.24-21.22.49:985][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.24-21.22.49:998][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.07.24-21.22.50:101][  0]LogInit: FAudioDevice initialized.
+[2018.07.24-21.22.50:143][  0]LogDerivedDataCache: Saved boot cache 0.04s 74MB C:/Users/intel-vr-1/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.24-21.22.50:155][  0]LogInit: Texture streaming: Enabled
+[2018.07.24-21.22.50:168][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.24-21.22.50:180][  0]LogInit: Transaction tracking system initialized
+[2018.07.24-21.22.50:199][  0]BlueprintLog: New page: Editor Load
+[2018.07.24-21.22.50:296][  0]LocalizationService: Localization service is disabled
+[2018.07.24-21.22.50:391][  0]LogConsoleResponse: Display: 
+[2018.07.24-21.22.50:509][  0]LogFileCache: Scanning file cache for directory 'C:/Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/' took 0.01s
+[2018.07.24-21.22.50:509][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.24-21.22.50:509][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.24-21.22.50:509][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.24-21.22.50:509][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.24-21.22.50:509][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.24-21.22.50:818][  0]SourceControl: Source control is disabled
+[2018.07.24-21.22.50:818][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.24-21.22.50:819][  0]LightingResults: New page: Lighting Build
+[2018.07.24-21.22.50:821][  0]MapCheck: New page: Map Check
+[2018.07.24-21.22.50:821][  0]LightingResults: New page: Lighting Build
+[2018.07.24-21.22.50:960][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.24-21.22.50:964][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.24-21.22.50:974][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.24-21.22.51:021][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.491ms to complete.
+[2018.07.24-21.22.51:021][  0]LogFileHelpers: Loading map 'Template_Default' took 0.202
+[2018.07.24-21.22.51:129][  0]LogCollectionManager: Loaded 0 collections in 0.001292 seconds
+[2018.07.24-21.22.51:173][  0]LogFileCache: Scanning file cache for directory 'C:/Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Saved/Collections/' took 0.01s
+[2018.07.24-21.22.51:173][  0]LogFileCache: Scanning file cache for directory 'C:/Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/Developers/intelvr1/Collections/' took 0.01s
+[2018.07.24-21.22.51:173][  0]LogFileCache: Scanning file cache for directory 'C:/Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/Collections/' took 0.01s
+[2018.07.24-21.22.51:173][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.24-21.22.51:180][  0]LogContentBrowser: Native class hierarchy populated in 0.0066 seconds. Added 2452 classes and 558 folders.
+[2018.07.24-21.22.51:185][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.24-21.22.51:222][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.24-21.22.51:226][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.07.24-21.22.51:271][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.24-21.22.51:272][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.24-21.22.51:277][  0]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.24-21.22.51:352][  0]LogRenderer: Reallocating scene render targets to support 1164x576 Format 10 NumSamples 1 (Frame:1).
+[2018.07.24-21.22.51:459][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.24-21.22.51:459][  0]LogLoad: (Engine Initialization) Total time: 9.96 seconds
+[2018.07.24-21.22.51:459][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.24-21.22.51:478][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.24-21.22.51:478][  0]LogOcInput: OculusInput is initialized
+[2018.07.24-21.22.51:496][  0]LogAssetRegistry: Asset discovery search completed in 4.8304 seconds
+[2018.07.24-21.22.51:498][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.24-21.22.51:498][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2018.07.24-21.22.51:499][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.24-21.22.58:673][425]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-21.23.00:608][538]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-21.23.09:325][ 61]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.24-21.23.09:335][ 61]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.19/FeaturePacks/StarterContent.upack)
+[2018.07.24-21.23.09:347][ 61]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.07.24-21.23.09:350][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.07.24-21.23.09:352][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.07.24-21.23.09:357][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.07.24-21.23.09:359][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.07.24-21.23.09:360][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.07.24-21.23.09:362][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.07.24-21.23.09:364][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.07.24-21.23.09:366][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.07.24-21.23.09:368][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.07.24-21.23.09:370][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.07.24-21.23.09:372][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.07.24-21.23.09:376][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.07.24-21.23.09:380][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.07.24-21.23.09:382][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.07.24-21.23.09:385][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.07.24-21.23.09:388][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.07.24-21.23.09:389][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.07.24-21.23.09:394][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Fire01.uasset"
+[2018.07.24-21.23.09:395][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.07.24-21.23.09:400][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.07.24-21.23.09:401][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.07.24-21.23.09:405][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Light01.uasset"
+[2018.07.24-21.23.09:406][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.07.24-21.23.09:409][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Light02.uasset"
+[2018.07.24-21.23.09:411][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.07.24-21.23.09:415][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.07.24-21.23.09:417][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.07.24-21.23.09:419][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.07.24-21.23.09:430][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.07.24-21.23.09:452][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.07.24-21.23.09:454][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.07.24-21.23.09:464][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.07.24-21.23.09:471][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.07.24-21.23.09:476][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Steam01.uasset"
+[2018.07.24-21.23.09:478][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.07.24-21.23.09:480][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.07.24-21.23.09:482][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.07.24-21.23.09:484][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.07.24-21.23.09:487][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.07.24-21.23.09:489][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.07.24-21.23.09:491][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.07.24-21.23.09:494][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.07.24-21.23.09:497][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.07.24-21.23.09:499][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.07.24-21.23.09:501][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.07.24-21.23.09:504][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.07.24-21.23.09:506][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.07.24-21.23.09:508][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.07.24-21.23.09:514][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.07.24-21.23.09:517][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.07.24-21.23.09:519][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.07.24-21.23.09:600][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.07.24-21.23.09:602][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.07.24-21.23.09:603][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.07.24-21.23.09:610][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.07.24-21.23.09:614][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.07.24-21.23.09:628][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Maps/StarterMap.umap"
+[2018.07.24-21.23.09:647][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.07.24-21.23.09:649][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.07.24-21.23.09:652][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.07.24-21.23.09:654][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.07.24-21.23.09:656][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.07.24-21.23.09:659][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.07.24-21.23.09:661][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.07.24-21.23.09:664][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.07.24-21.23.09:666][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.07.24-21.23.09:669][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.07.24-21.23.09:671][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.07.24-21.23.09:675][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.07.24-21.23.09:678][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.07.24-21.23.09:680][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.07.24-21.23.09:683][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.07.24-21.23.09:685][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.07.24-21.23.09:687][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.07.24-21.23.09:690][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.07.24-21.23.09:692][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.07.24-21.23.09:694][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.07.24-21.23.09:697][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.07.24-21.23.09:699][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.07.24-21.23.09:701][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.07.24-21.23.09:704][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.07.24-21.23.09:707][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.07.24-21.23.09:709][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.07.24-21.23.09:712][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.07.24-21.23.09:715][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.07.24-21.23.09:717][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.07.24-21.23.09:720][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.07.24-21.23.09:731][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.07.24-21.23.09:734][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.07.24-21.23.09:740][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.07.24-21.23.09:744][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.07.24-21.23.09:750][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.07.24-21.23.09:755][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.07.24-21.23.09:757][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.07.24-21.23.09:759][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.07.24-21.23.09:761][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.07.24-21.23.09:764][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.07.24-21.23.09:766][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.07.24-21.23.09:768][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.07.24-21.23.09:771][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.07.24-21.23.09:773][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.07.24-21.23.09:775][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.07.24-21.23.09:778][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.07.24-21.23.09:781][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.07.24-21.23.09:783][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.07.24-21.23.09:785][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.07.24-21.23.09:788][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.07.24-21.23.09:790][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.07.24-21.23.09:793][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.07.24-21.23.09:796][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.07.24-21.23.09:798][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.07.24-21.23.09:800][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.07.24-21.23.09:803][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.07.24-21.23.09:806][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.07.24-21.23.09:808][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.07.24-21.23.09:811][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.07.24-21.23.09:813][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.07.24-21.23.09:817][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.07.24-21.23.09:820][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.07.24-21.23.09:823][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.07.24-21.23.09:825][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.07.24-21.23.09:829][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.07.24-21.23.09:832][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/SM_Door.uasset"
+[2018.07.24-21.23.09:834][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.07.24-21.23.09:836][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.07.24-21.23.09:840][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.07.24-21.23.09:843][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.07.24-21.23.09:854][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.07.24-21.23.09:856][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.07.24-21.23.09:859][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.07.24-21.23.09:862][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.07.24-21.23.09:865][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.07.24-21.23.09:867][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.07.24-21.23.09:872][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.07.24-21.23.09:877][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.07.24-21.23.09:879][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.07.24-21.23.09:882][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.07.24-21.23.09:884][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.07.24-21.23.09:886][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.07.24-21.23.09:889][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.07.24-21.23.09:891][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.07.24-21.23.09:894][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.07.24-21.23.09:896][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.07.24-21.23.09:898][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.07.24-21.23.09:901][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.07.24-21.23.09:903][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.07.24-21.23.09:906][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.07.24-21.23.09:909][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.07.24-21.23.09:912][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.07.24-21.23.09:914][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.07.24-21.23.09:917][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.07.24-21.23.09:920][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.07.24-21.23.09:923][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.07.24-21.23.09:926][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.07.24-21.23.09:928][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.07.24-21.23.09:931][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.07.24-21.23.09:933][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.07.24-21.23.09:936][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.07.24-21.23.09:940][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.07.24-21.23.09:942][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.07.24-21.23.09:944][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.07.24-21.23.09:946][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.07.24-21.23.09:948][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.07.24-21.23.09:951][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.07.24-21.23.09:954][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.07.24-21.23.09:955][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.07.24-21.23.09:958][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.07.24-21.23.09:983][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.07.24-21.23.10:000][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.07.24-21.23.10:017][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.07.24-21.23.10:030][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.07.24-21.23.10:046][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.07.24-21.23.10:062][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.07.24-21.23.10:083][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.07.24-21.23.10:098][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.07.24-21.23.10:119][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.07.24-21.23.10:132][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.07.24-21.23.10:146][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.07.24-21.23.10:160][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.07.24-21.23.10:178][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.07.24-21.23.10:180][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.07.24-21.23.10:184][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.07.24-21.23.10:188][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.07.24-21.23.10:192][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.07.24-21.23.10:194][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.07.24-21.23.10:198][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.07.24-21.23.10:206][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.07.24-21.23.10:208][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.07.24-21.23.10:233][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.07.24-21.23.10:239][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.07.24-21.23.10:259][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.07.24-21.23.10:272][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.07.24-21.23.10:283][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.07.24-21.23.10:298][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.07.24-21.23.10:310][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.07.24-21.23.10:326][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.07.24-21.23.10:343][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.07.24-21.23.10:361][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.07.24-21.23.10:377][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.07.24-21.23.10:399][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.07.24-21.23.10:414][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.07.24-21.23.10:426][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.07.24-21.23.10:440][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.07.24-21.23.10:454][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.07.24-21.23.10:456][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.07.24-21.23.10:462][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.07.24-21.23.10:465][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.07.24-21.23.10:471][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.07.24-21.23.10:473][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.07.24-21.23.10:484][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.07.24-21.23.10:488][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.07.24-21.23.10:492][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.07.24-21.23.10:496][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.07.24-21.23.10:502][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.07.24-21.23.10:504][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.07.24-21.23.10:524][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.07.24-21.23.10:543][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.07.24-21.23.10:560][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.07.24-21.23.10:575][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.07.24-21.23.10:598][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.07.24-21.23.10:612][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.07.24-21.23.10:616][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.07.24-21.23.10:623][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.07.24-21.23.10:636][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.07.24-21.23.10:653][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.07.24-21.23.10:664][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.07.24-21.23.10:680][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.07.24-21.23.10:690][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.07.24-21.23.10:705][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.07.24-21.23.10:720][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.07.24-21.23.10:731][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.07.24-21.23.10:744][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.07.24-21.23.10:759][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.07.24-21.23.10:770][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.07.24-21.23.10:782][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.07.24-21.23.10:799][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.07.24-21.23.10:813][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.07.24-21.23.10:825][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.07.24-21.23.10:841][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.07.24-21.23.10:858][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.07.24-21.23.10:877][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.07.24-21.23.10:893][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.07.24-21.23.10:907][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.07.24-21.23.10:912][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.07.24-21.23.10:920][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.07.24-21.23.10:922][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.07.24-21.23.10:935][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.07.24-21.23.10:936][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.07.24-21.23.10:939][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.07.24-21.23.10:943][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.07.24-21.23.10:947][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.07.24-21.23.10:952][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.07.24-21.23.10:959][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.07.24-21.23.10:961][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.07.24-21.23.10:964][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.07.24-21.23.10:969][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.07.24-21.23.10:972][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.07.24-21.23.10:978][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.07.24-21.23.10:984][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.07.24-21.23.10:992][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.07.24-21.23.10:998][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.07.24-21.23.11:016][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.07.24-21.23.11:027][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.07.24-21.23.11:038][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.07.24-21.23.11:052][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.07.24-21.23.11:068][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.07.24-21.23.11:088][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.07.24-21.23.11:178][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.07.24-21.23.11:226][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.07.24-21.23.11:237][ 61]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.07.24-21.23.11:307][ 61]LogSavePackage: Save=9.74ms
+[2018.07.24-21.23.11:307][ 61]LogSavePackage: Moving '../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Saved/Floor_400x400D7EC075E43111882B1A1B99B27E51D54.tmp' to '../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.07.24-21.23.11:313][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.07.24-21.23.11:327][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-21.23.11:328][ 61]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.24-21.23.39:578][750]LogSlate: Window 'Add Content to the Project' being destroyed
+[2018.07.24-21.23.40:928][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.23.44:354][ 36]LogActorFactory: Actor Factory created Wall_Door_400x400
+[2018.07.24-21.23.48:373][277]LogActorFactory: Actor Factory created Wall_Door_400x400
+[2018.07.24-21.23.50:532][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.23.51:089][437]LogActorFactory: Actor Factory created Wall_500x500
+[2018.07.24-21.24.00:514][958]LogActorFactory: Actor Factory created Wall_500x500
+[2018.07.24-21.24.02:086][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x400)
+[2018.07.24-21.24.07:766][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x400)
+[2018.07.24-21.24.24:783][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x500)
+[2018.07.24-21.24.27:667][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.24.32:372][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x400)
+[2018.07.24-21.24.34:405][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.24.39:464][286]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.24-21.25.01:757][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x400)
+[2018.07.24-21.25.02:472][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x500)
+[2018.07.24-21.25.06:219][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.25.13:109][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x400)
+[2018.07.24-21.25.16:472][499]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.24-21.25.25:909][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.25.26:195][ 81]LogActorFactory: Actor Factory created Wall_500x500
+[2018.07.24-21.25.26:814][118]LogActorFactory: Actor Factory created Wall_500x500
+[2018.07.24-21.25.28:587][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.25.39:657][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.25.56:529][899]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.24-21.25.56:604][902]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2018.07.24-21.26.13:017][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.26.13:270][900]LogActorFactory: Actor Factory created Wall_500x500
+[2018.07.24-21.26.14:423][969]LogActorFactory: Actor Factory created Wall_500x500
+[2018.07.24-21.26.15:884][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.26.22:885][475]Cmd: DELETE
+[2018.07.24-21.26.22:885][475]Cmd: ACTOR DELETE
+[2018.07.24-21.26.22:886][475]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.24-21.26.22:895][475]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2018.07.24-21.26.23:770][528]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.24-21.26.25:331][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.26.25:649][639]LogActorFactory: Actor Factory created Wall_Window_400x300
+[2018.07.24-21.26.28:152][789]LogActorFactory: Actor Factory created Wall_Window_400x300
+[2018.07.24-21.26.29:543][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.24-21.26.30:575][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.07.24-21.26.41:689][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.26.55:371][416]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.24-21.26.56:313][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.07.24-21.26.59:117][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.27.10:448][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x501)
+[2018.07.24-21.27.24:516][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.07.24-21.27.29:227][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x501)
+[2018.07.24-21.27.32:662][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.07.24-21.27.37:628][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x501)
+[2018.07.24-21.27.41:188][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.07.24-21.27.42:883][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.27.51:384][761]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.24-21.27.51:670][777]Cmd: TRANSACTION UNDO
+[2018.07.24-21.27.51:670][777]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.24-21.27.52:231][809]Cmd: TRANSACTION UNDO
+[2018.07.24-21.27.52:231][809]LogEditorTransaction: Undo Set Location
+[2018.07.24-21.27.58:531][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.28.01:664][375]Cmd: TRANSACTION UNDO
+[2018.07.24-21.28.01:664][375]LogEditorTransaction: Undo Set Scale
+[2018.07.24-21.28.09:149][824]Cmd: TRANSACTION UNDO
+[2018.07.24-21.28.09:149][824]LogEditorTransaction: Undo Scale Actors
+[2018.07.24-21.28.09:569][849]Cmd: TRANSACTION UNDO
+[2018.07.24-21.28.09:569][849]LogEditorTransaction: Undo Set Scale
+[2018.07.24-21.28.27:196][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x501)
+[2018.07.24-21.28.30:033][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x500)
+[2018.07.24-21.28.30:499][100]Cmd: TRANSACTION UNDO
+[2018.07.24-21.28.30:499][100]LogEditorTransaction: Undo Scale Actors
+[2018.07.24-21.28.30:945][125]Cmd: TRANSACTION UNDO
+[2018.07.24-21.28.30:945][125]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.24-21.28.31:758][172]Cmd: TRANSACTION UNDO
+[2018.07.24-21.28.31:758][172]LogEditorTransaction: Undo Scale Actors
+[2018.07.24-21.28.39:112][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.24-21.28.40:075][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.07.24-21.29.03:590][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.29.25:905][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x501)
+[2018.07.24-21.29.26:968][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.07.24-21.29.32:880][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.29.38:600][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.29.43:634][472]Cmd: TRANSACTION UNDO
+[2018.07.24-21.29.43:634][472]LogEditorTransaction: Undo Scale Actors
+[2018.07.24-21.29.47:201][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.29.55:436][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.30.31:839][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.30.32:158][383]LogActorFactory: Actor Factory created Wall_400x400
+[2018.07.24-21.30.36:028][615]LogActorFactory: Actor Factory created Wall_400x400
+[2018.07.24-21.30.48:100][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.31.23:861][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.31.38:714][374]Cmd: DELETE
+[2018.07.24-21.31.38:714][374]Cmd: ACTOR DELETE
+[2018.07.24-21.31.38:715][374]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.24-21.31.38:724][374]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2018.07.24-21.31.40:730][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.07.24-21.31.42:927][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x501)
+[2018.07.24-21.31.44:872][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.07.24-21.31.54:287][303]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.24-21.31.55:572][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.32.13:425][451]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.24-21.32.14:543][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.07.24-21.32.16:790][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.32.22:492][992]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.24-21.32.23:694][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.07.24-21.32.25:623][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.32.29:443][406]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.24-21.32.30:694][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.07.24-21.32.49:882][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.24-21.32.51:951][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.07.24-21.32.54:184][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.32.58:503][142]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.24-21.33.07:973][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.07.24-21.33.14:486][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.33.14:705][111]LogActorFactory: Actor Factory created Wall_Door_400x400
+[2018.07.24-21.33.16:509][219]LogActorFactory: Actor Factory created Wall_Door_400x400
+[2018.07.24-21.33.22:804][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.33.47:331][ 64]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.24-21.34.00:724][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2018.07.24-21.34.01:791][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x401)
+[2018.07.24-21.34.04:372][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.34.10:908][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.24-21.34.12:022][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x401)
+[2018.07.24-21.34.15:836][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.34.16:089][780]LogActorFactory: Actor Factory created Wall_Door_400x400
+[2018.07.24-21.34.20:292][ 32]LogActorFactory: Actor Factory created Wall_Door_400x400
+[2018.07.24-21.34.36:227][986]Cmd: TRANSACTION UNDO
+[2018.07.24-21.34.36:227][986]LogEditorTransaction: Undo Scale Actors
+[2018.07.24-21.34.37:761][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.34.43:315][411]Cmd: DELETE
+[2018.07.24-21.34.43:315][411]Cmd: ACTOR DELETE
+[2018.07.24-21.34.43:316][411]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.24-21.34.43:324][411]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2018.07.24-21.34.45:831][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x401)
+[2018.07.24-21.34.46:662][610]Cmd: DELETE
+[2018.07.24-21.34.46:662][610]Cmd: ACTOR DELETE
+[2018.07.24-21.34.46:662][610]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.24-21.34.46:671][610]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2018.07.24-21.34.48:312][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.34.48:581][725]LogActorFactory: Actor Factory created Wall_Window_400x300
+[2018.07.24-21.34.52:634][968]LogActorFactory: Actor Factory created Wall_Window_400x300
+[2018.07.24-21.34.55:108][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.35.00:544][441]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.24-21.35.06:980][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x301)
+[2018.07.24-21.35.14:725][288]Cmd: TRANSACTION UNDO
+[2018.07.24-21.35.14:725][288]LogEditorTransaction: Undo Scale Actors
+[2018.07.24-21.35.15:816][353]Cmd: TRANSACTION UNDO
+[2018.07.24-21.35.15:816][353]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.24-21.35.19:031][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.35.20:482][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x301)
+[2018.07.24-21.35.36:338][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.35.41:057][864]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.24-21.35.53:713][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.35.54:714][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x301)
+[2018.07.24-21.35.55:629][735]Cmd: EDIT COPY
+[2018.07.24-21.35.56:063][761]Cmd: EDIT PASTE
+[2018.07.24-21.35.57:265][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x302)
+[2018.07.24-21.36.06:415][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.36.11:491][684]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-21.36.14:394][684]LogSlate: Window 'Save Level As' being destroyed
+[2018.07.24-21.36.22:772][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.24-21.36.23:836][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x302)
+[2018.07.24-21.36.34:130][857]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-21.36.50:531][835]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-21.36.54:710][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x500)
+[2018.07.24-21.36.57:621][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x400)
+[2018.07.24-21.36.59:155][348]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-21.37.02:941][575]Cmd: TRANSACTION UNDO
+[2018.07.24-21.37.02:941][575]LogEditorTransaction: Undo Edit Static Mesh
+[2018.07.24-21.37.04:166][648]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-21.37.12:299][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x302)
+[2018.07.24-21.37.13:244][191]Cmd: EDIT COPY
+[2018.07.24-21.37.13:577][211]Cmd: EDIT PASTE
+[2018.07.24-21.37.15:815][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.37.29:983][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.37.59:548][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.38.33:193][985]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-21.38.34:220][ 47]MapCheck: New page: Map Check
+[2018.07.24-21.38.34:230][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-21.38.34:235][ 47]LightingResults: New page: Lighting Build - Jul 25, 2018, 1:38:34 AM
+[2018.07.24-21.38.34:277][ 47]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.07.24-21.38.34:561][ 47]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.07.24-21.38.34:569][ 47]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.07.24-21.38.35:077][ 47]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.07.24-21.38.35:077][ 47]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8756
+[2018.07.24-21.38.39:786][ 47]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.07.24-21.38.39:786][ 47]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.07.24-21.38.39:786][ 47]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.07.24-21.38.39:786][ 47]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.07.24-21.38.39:786][ 47]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.07.24-21.38.39:786][ 47]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.07.24-21.38.39:993][ 47]LogEditorBuildUtils: Build time 0:05
+[2018.07.24-21.38.41:619][126]Job is a success!
+[2018.07.24-21.38.41:645][127]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-21.38.41:671][127]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2018.07.24-21.38.41:671][127]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.07.24-21.38.41:671][127]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2018.07.24-21.38.41:671][127]LogVolumetricLightmapImport:      Bricks at Level
+[2018.07.24-21.38.41:671][127]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2018.07.24-21.38.41:671][127]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2018.07.24-21.38.41:671][127]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2018.07.24-21.38.41:887][127]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.07.24-21.38.41:887][127]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.07.24-21.38.41:887][127]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.07.24-21.38.41:887][127]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.07.24-21.38.41:887][127]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.07.24-21.38.41:960][127]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X512)
+[2018.07.24-21.38.41:996][127]Lightmass on DESKTOP-3B3FS1J: 1.57 sec total, 76 ms importing, 4 ms setup, 420 ms photons, 1.04 sec processing, 0 ms extra exporting [9/9 mappings]. Threads: 7.13 sec total, 2.75 sec processing.
+[2018.07.24-21.38.42:018][127]LogStaticLightingSystem: Illumination: 7.76 sec (174 ms encoding lightmaps, 90 ms encoding shadowmaps)
+[2018.07.24-21.38.42:018][127]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.07.24-21.38.42:018][127]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.07.24-21.38.42:788][127]DumpUnbuiltLightIteractions
+[2018.07.24-21.38.42:788][127]Lights with unbuilt interactions: 0
+[2018.07.24-21.38.42:788][127]
+[2018.07.24-21.38.42:788][127]Primitives with unbuilt interactions: 0
+[2018.07.24-21.38.42:791][127]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-21.38.42:841][128]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.07.24-21.38.42:842][128]MapCheck: New page: Untitled_1 - Jul 25, 2018, 1:38:42 AM
+[2018.07.24-21.38.42:901][128]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.727ms to complete.
+[2018.07.24-21.38.44:801][242]LogEditorViewport: Clicking Background
+[2018.07.24-21.38.45:752][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.24-21.38.47:373][394]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-21.39.31:921][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.24-21.39.47:629][  4]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-21.39.49:768][  4]LogSlate: Window 'Save Level As' being destroyed
+[2018.07.24-21.39.51:452][105]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-21.39.53:219][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-21.39.53:219][211]LogHMD: Initializing OVRPlugin session
+[2018.07.24-21.39.53:274][211]PIE: New page: PIE session: Untitled_1 (Jul 25, 2018, 1:39:53 AM)
+[2018.07.24-21.39.53:274][211]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.07.24-21.39.53:276][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001585s)
+[2018.07.24-21.39.53:276][211]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.24-21.39.53:276][211]LogPlayLevel: PIE: World Init took: (0.000583s)
+[2018.07.24-21.39.53:276][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002279s)
+[2018.07.24-21.39.53:298][211]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-21.39.53:308][211]LogInit: FAudioDevice initialized.
+[2018.07.24-21.39.53:312][211]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-21.39.53:388][211]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.07.24-21.39.53:426][211]LogLoad: Game class is 'GameModeBase'
+[2018.07.24-21.39.53:427][211]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.07.24-23.39.53
+[2018.07.24-21.39.53:428][211]LogWorld: Bringing up level for play took: 0.000575
+[2018.07.24-21.39.53:431][211]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.07.24-21.39.53:435][211]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.323
+[2018.07.24-21.39.53:435][211]LogEngine: Changing dynamic resolution state.
+[2018.07.24-21.39.53:438][211]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.07.24-21.39.53:440][211]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.07.24-21.39.53:440][211]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.07.24-21.39.53:440][211]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.07.24-21.39.53:441][211]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.07.24-21.39.53:441][211]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.07.24-21.39.53:449][211]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.07.24-21.39.53:452][211]LogRenderer: Reallocating scene render targets to support 2720x1600 Format 10 NumSamples 1 (Frame:1).
+[2018.07.24-21.39.53:452][211]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.07.24-21.39.58:357][899]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-21.40.37:412][390]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2018.07.24-21.40.44:847][953]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.07.24-21.40.48:027][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.40.52:059][565]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-21.40.55:548][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x301)
+[2018.07.24-21.41.05:274][587]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.07.24-21.41.08:405][841]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-21.41.10:583][  7]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-21.41.12:639][174]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-21.41.21:941][853]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-21.41.23:607][993]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-21.41.26:030][199]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-21.41.33:086][813]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-21.41.34:697][949]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-21.41.36:853][130]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-21.41.43:665][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-21.41.43:703][590]LogDialogs: Warning: Suppressed: VR Mode enables you to work on your project in virtual reality using motion controllers. This feature is still under development, so you may experience bugs or crashes while using it.
+[2018.07.24-21.41.43:767][590]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-21.41.43:769][590]LogSlate: Window 'Sequencer' being destroyed
+[2018.07.24-21.41.43:839][590]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.07.24-21.41.43:881][590]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.07.24-21.41.53:816][478]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.07.24-21.41.53:846][478]LogSlate: Window 'vrAIretail Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.24-21.42.23:982][481]LogHMD: Initializing OVRPlugin session
+[2018.07.24-21.42.24:052][481]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.07.24-21.42.24:080][481]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.07.24-21.42.24:104][481]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.07.24-21.42.24:104][481]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.07.24-21.42.24:104][481]LogEngine: Changing dynamic resolution state.
+[2018.07.24-21.42.24:117][481]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-21.42.28:734][481]LogSlate: Window 'Save Content' being destroyed
+[2018.07.24-21.42.36:356][900]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-21.42.38:260][900]LogSlate: Window 'Save Content' being destroyed
+[2018.07.24-21.42.38:267][900]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-21.42.40:881][900]LogSlate: Window 'Save Level As' being destroyed
+[2018.07.24-21.42.50:226][ 80]LogSlate: Window 'Save Content' being destroyed
+[2018.07.24-21.42.50:266][ 80]LogSlate: Window 'vrAIretail - Unreal Editor' being destroyed
+[2018.07.24-21.42.50:453][ 81]Cmd: QUIT_EDITOR
+[2018.07.24-21.42.51:154][ 81]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.24-21.42.51:163][ 81]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.07.24-21.42.51:163][ 81]LogExit: Preparing to exit.
+[2018.07.24-21.42.51:468][ 81]LogDirectoryWatcher: A directory notification for 'C:/Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/' was aborted.
+[2018.07.24-21.42.51:482][ 81]LogExit: Editor shut down
+[2018.07.24-21.42.51:484][ 81]LogExit: Transaction tracking system shut down
+[2018.07.24-21.42.51:592][ 81]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.07.24-21.42.51:592][ 81]LogDirectoryWatcher: A directory notification for '../../../../../../Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/' was aborted.
+[2018.07.24-21.42.51:592][ 81]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.07.24-21.42.51:592][ 81]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.07.24-21.42.51:592][ 81]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.07.24-21.42.51:592][ 81]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.07.24-21.42.51:592][ 81]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.07.24-21.42.51:592][ 81]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.07.24-21.42.51:634][ 81]LogExit: Object subsystem successfully closed.
+[2018.07.24-21.42.51:642][ 81]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.07.24-21.42.51:645][ 81]LogD3D11RHI: Shutdown
+[2018.07.24-21.42.51:645][ 81]LogD3D11RHI: CleanupD3DDevice
+[2018.07.24-21.42.51:648][ 81]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.07.24-21.42.51:670][ 81]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (578)
+[2018.07.24-21.42.51:670][ 81]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (576)
+[2018.07.24-21.42.51:670][ 81]LogModuleManager: Shutting down and abandoning module SceneOutliner (574)
+[2018.07.24-21.42.51:670][ 81]LogModuleManager: Shutting down and abandoning module AddContentDialog (572)
+[2018.07.24-21.42.51:670][ 81]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.07.24-21.42.51:671][ 81]LogModuleManager: Shutting down and abandoning module WidgetCarousel (571)
+[2018.07.24-21.42.51:671][ 81]LogModuleManager: Shutting down and abandoning module EditorWidgets (568)
+[2018.07.24-21.42.51:671][ 81]LogModuleManager: Shutting down and abandoning module CollectionManager (566)
+[2018.07.24-21.42.51:671][ 81]LogDirectoryWatcher: A directory notification for 'C:/Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/Collections/' was aborted.
+[2018.07.24-21.42.51:671][ 81]LogDirectoryWatcher: A directory notification for 'C:/Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Content/Developers/intelvr1/Collections/' was aborted.
+[2018.07.24-21.42.51:671][ 81]LogDirectoryWatcher: A directory notification for 'C:/Users/intel-vr-1/Transporter/_Intel_Innovators/Projects/vrAIretail/vrAIretail/Saved/Collections/' was aborted.
+[2018.07.24-21.42.51:671][ 81]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (564)
+[2018.07.24-21.42.51:671][ 81]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.07.24-21.42.51:671][ 81]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.07.24-21.42.51:671][ 81]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.07.24-21.42.51:671][ 81]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.07.24-21.42.51:671][ 81]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.07.24-21.42.51:671][ 81]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.07.24-21.42.51:671][ 81]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.07.24-21.42.51:671][ 81]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.07.24-21.42.51:671][ 81]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.07.24-21.42.51:671][ 81]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.07.24-21.42.51:671][ 81]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.07.24-21.42.51:672][ 81]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.07.24-21.42.51:993][ 81]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.07.24-21.42.51:993][ 81]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.07.24-21.42.51:993][ 81]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.07.24-21.42.51:993][ 81]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.07.24-21.42.51:993][ 81]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.07.24-21.42.51:993][ 81]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.07.24-21.42.51:993][ 81]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.07.24-21.42.51:993][ 81]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.07.24-21.42.51:993][ 81]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.07.24-21.42.51:993][ 81]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.07.24-21.42.51:993][ 81]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.07.24-21.42.51:993][ 81]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.07.24-21.42.51:993][ 81]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.07.24-21.42.51:993][ 81]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.07.24-21.42.51:993][ 81]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.07.24-21.42.51:994][ 81]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.07.24-21.42.51:994][ 81]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.07.24-21.42.51:994][ 81]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.07.24-21.42.51:994][ 81]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.07.24-21.42.51:994][ 81]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.07.24-21.42.51:994][ 81]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.07.24-21.42.52:047][ 81]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.07.24-21.42.52:047][ 81]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.07.24-21.42.52:047][ 81]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.07.24-21.42.52:047][ 81]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.07.24-21.42.52:047][ 81]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.07.24-21.42.52:047][ 81]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.07.24-21.42.52:047][ 81]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.07.24-21.42.52:047][ 81]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.07.24-21.42.52:047][ 81]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.07.24-21.42.52:047][ 81]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.07.24-21.42.52:047][ 81]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.07.24-21.42.52:047][ 81]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.07.24-21.42.52:047][ 81]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.07.24-21.42.52:047][ 81]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.07.24-21.42.52:047][ 81]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.07.24-21.42.52:047][ 81]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.07.24-21.42.52:047][ 81]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.07.24-21.42.52:047][ 81]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.07.24-21.42.52:048][ 81]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.07.24-21.42.52:048][ 81]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.07.24-21.42.52:048][ 81]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.07.24-21.42.52:048][ 81]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.07.24-21.42.52:048][ 81]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.07.24-21.42.52:048][ 81]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.07.24-21.42.52:048][ 81]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.07.24-21.42.52:048][ 81]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.07.24-21.42.52:048][ 81]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.07.24-21.42.52:048][ 81]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.07.24-21.42.52:048][ 81]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.07.24-21.42.52:048][ 81]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.07.24-21.42.52:048][ 81]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.07.24-21.42.52:159][ 81]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.07.24-21.42.52:159][ 81]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.07.24-21.42.52:159][ 81]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.07.24-21.42.52:159][ 81]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.07.24-21.42.52:159][ 81]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.07.24-21.42.52:159][ 81]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.07.24-21.42.52:159][ 81]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.07.24-21.42.52:159][ 81]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.07.24-21.42.52:159][ 81]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.07.24-21.42.52:159][ 81]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.07.24-21.42.52:159][ 81]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.07.24-21.42.52:159][ 81]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.07.24-21.42.52:159][ 81]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.07.24-21.42.52:159][ 81]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.07.24-21.42.52:159][ 81]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.07.24-21.42.52:159][ 81]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.07.24-21.42.52:160][ 81]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.07.24-21.42.52:162][ 81]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.07.24-21.42.52:163][ 81]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.07.24-21.42.52:163][ 81]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.07.24-21.42.52:163][ 81]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.07.24-21.42.52:163][ 81]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.07.24-21.42.52:163][ 81]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.07.24-21.42.52:163][ 81]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.07.24-21.42.52:264][ 81]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.07.24-21.42.52:365][ 81]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.07.24-21.42.52:365][ 81]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.07.24-21.42.52:365][ 81]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.07.24-21.42.52:365][ 81]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.07.24-21.42.52:365][ 81]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.07.24-21.42.52:365][ 81]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.07.24-21.42.52:365][ 81]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.07.24-21.42.52:365][ 81]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.07.24-21.42.52:366][ 81]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.07.24-21.42.52:366][ 81]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.07.24-21.42.52:366][ 81]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.07.24-21.42.52:367][ 81]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.07.24-21.42.52:367][ 81]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.07.24-21.42.52:367][ 81]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.07.24-21.42.52:367][ 81]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.07.24-21.42.53:209][ 81]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.07.24-21.42.53:209][ 81]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.07.24-21.42.53:209][ 81]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.07.24-21.42.53:210][ 81]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.07.24-21.42.53:216][ 81]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.07.24-21.42.53:216][ 81]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.07.24-21.42.53:216][ 81]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.07.24-21.42.53:216][ 81]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.07.24-21.42.53:216][ 81]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.07.24-21.42.53:216][ 81]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.07.24-21.42.53:216][ 81]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.07.24-21.42.53:216][ 81]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.07.24-21.42.53:216][ 81]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.07.24-21.42.53:216][ 81]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.07.24-21.42.53:216][ 81]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.07.24-21.42.53:216][ 81]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.07.24-21.42.53:216][ 81]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.07.24-21.42.53:216][ 81]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.07.24-21.42.53:216][ 81]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.07.24-21.42.53:216][ 81]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.07.24-21.42.53:216][ 81]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.07.24-21.42.53:217][ 81]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.07.24-21.42.53:217][ 81]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.07.24-21.42.53:217][ 81]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.07.24-21.42.53:218][ 81]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.07.24-21.42.53:218][ 81]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.07.24-21.42.53:218][ 81]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.07.24-21.42.53:218][ 81]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.07.24-21.42.53:218][ 81]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.07.24-21.42.53:218][ 81]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.07.24-21.42.53:218][ 81]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.07.24-21.42.53:218][ 81]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.07.24-21.42.53:218][ 81]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.07.24-21.42.53:218][ 81]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.07.24-21.42.53:218][ 81]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.07.24-21.42.53:218][ 81]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.07.24-21.42.53:218][ 81]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.07.24-21.42.53:218][ 81]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.07.24-21.42.53:218][ 81]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.07.24-21.42.53:218][ 81]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.07.24-21.42.53:218][ 81]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.07.24-21.42.53:308][ 81]LogDerivedDataCache: Shutdown
+[2018.07.24-21.42.53:308][ 81]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.07.24-21.42.53:308][ 81]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.07.24-21.42.53:308][ 81]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.07.24-21.42.53:308][ 81]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.07.24-21.42.53:308][ 81]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.07.24-21.42.53:308][ 81]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.07.24-21.42.53:308][ 81]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.07.24-21.42.53:308][ 81]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.07.24-21.42.53:308][ 81]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.07.24-21.42.53:308][ 81]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.07.24-21.42.53:308][ 81]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.07.24-21.42.53:308][ 81]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.07.24-21.42.53:308][ 81]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.07.24-21.42.53:308][ 81]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.07.24-21.42.53:308][ 81]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.07.24-21.42.53:308][ 81]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.07.24-21.42.53:308][ 81]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.07.24-21.42.53:308][ 81]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.07.24-21.42.53:308][ 81]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.07.24-21.42.53:308][ 81]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.07.24-21.42.53:308][ 81]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.07.24-21.42.53:308][ 81]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.07.24-21.42.53:309][ 81]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.07.24-21.42.53:309][ 81]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.07.24-21.42.53:309][ 81]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC93BBEBA-47EB-60BA-3DB8-E4A3BB0801AF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=813d2c2945eb995f6f8a98b16f183feb%7C2c275db5055d4e61be63972695f292a0%7C915c7199-5073-4e18-a36b-410561a7d448&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.24-21.42.53:327][ 81]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.07.24-21.42.53:327][ 81]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.07.24-21.42.53:327][ 81]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.07.24-21.42.53:327][ 81]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.07.24-21.42.53:327][ 81]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.07.24-21.42.53:328][ 81]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.07.24-21.42.53:328][ 81]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.07.24-21.42.53:328][ 81]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.07.24-21.42.53:328][ 81]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.07.24-21.42.53:328][ 81]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.07.24-21.42.53:328][ 81]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.07.24-21.42.53:328][ 81]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.07.24-21.42.53:328][ 81]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.07.24-21.42.53:328][ 81]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.07.24-21.42.53:328][ 81]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.07.24-21.42.53:328][ 81]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.07.24-21.42.53:328][ 81]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.07.24-21.42.53:328][ 81]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.07.24-21.42.53:328][ 81]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.07.24-21.42.53:334][ 81]LogExit: Exiting.
+[2018.07.24-21.42.53:340][ 81]Log file closed, 07/24/18 23:42:53
