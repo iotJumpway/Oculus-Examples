@@ -6,11 +6,9 @@ The iotJumpWay is an free platform as a service that allows device and applicati
 
 The iotJumpWay Oculus Tutorials/Examples provide example projects that you can use to get started using the iotJumpWay for your Oculus Rift based IoT/AI Virtual Reality projects.
 
-# Oculus Rift Tutorials/Examples
-
-## vrAIretail
+# vrAIretail for Oculus Rift
 
 ![iotJumpWay Oculus Examples](Rift/vrAIretail/_media/vrAIretail.png)
 
-vrAIretail takes you from a blank VR project to a fully functioning Artificially Intelligent VR store assistant. To include voice synthesis, natural language understanding and the Internet of Things.
+vrAIretail takes you from a blank Unreal Engine 4 Oculus project to a functioning Artificially Intelligent VR store assistant. To include voice synthesis, natural language understanding and the Internet of Things.
 
