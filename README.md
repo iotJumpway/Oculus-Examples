@@ -1,7 +1,7 @@
-# IoT JumpWay Oculus Examples
+# iotJumpWay Oculus Examples
 
-![IoT JumpWay Oculus Examples](Rift/images/oculus-rift.jpg)
+![iotJumpWay Oculus Examples](Rift/images/oculus-rift.jpg)
 
-The IoT JumpWay is an IoT platform that provides access to an IoT PaaS for IoT communication, tutorials and examples and a social community for IoT developers and makers. The platform provides the fundamental services that allow you to securely distribute data from IoT devices and manage and control them securely via applications.
+The iotJumpWay is an free plat form as a service that allows device and application management / IoT communication via MQTT, alert rules / device commands, tutorials / examples, and a social community for IoT developers and makers. The platform provides the fundamental services that allow you to securely distribute data from IoT devices and manage and control them securely via applications.
 
-The IoT JumpWay Oculus Examples provide example projects that you can use to get started using the IoT JumpWay for your Oculus Rift based IoT/AI Virtual Reality projects.
+The iotJumpWay Oculus Examples provide example projects that you can use to get started using the iotJumpWay for your Oculus Rift based IoT/AI Virtual Reality projects.
