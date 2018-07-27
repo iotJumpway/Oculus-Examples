@@ -1,0 +1,3 @@
+C:\Users\intel-vr-1\Transporter\vrAIretail\Source\vrAIretail\vrAIretail.Build.cs
+C:\Users\intel-vr-1\Transporter\vrAIretail\Source\vrAIretail.Target.cs
+C:\Users\intel-vr-1\Transporter\vrAIretail\Source\vrAIretailEditor.Target.cs
