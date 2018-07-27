@@ -1,3 +1,0 @@
-C:\Users\intel-vr-1\Transporter\_Intel_Innovators\Github\Oculus-Examples\vrAIretail\vrAIretail\Source\vrAIretail\vrAIretail.Build.cs
-C:\Users\intel-vr-1\Transporter\_Intel_Innovators\Github\Oculus-Examples\vrAIretail\vrAIretail\Source\vrAIretail.Target.cs
-C:\Users\intel-vr-1\Transporter\_Intel_Innovators\Github\Oculus-Examples\vrAIretail\vrAIretail\Source\vrAIretailEditor.Target.cs

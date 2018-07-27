@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-vrAIretail-5614.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\intel-vr-1\Transporter\_Intel_Innovators\Github\Oculus-Examples\Rift\vrAIretail\Intermediate\Build\Win64\UE4Editor\Development\vrAIretail\ThreadIt.cpp.obj"
+"C:\Users\intel-vr-1\Transporter\_Intel_Innovators\Github\Oculus-Examples\Rift\vrAIretail\Intermediate\Build\Win64\UE4Editor\Development\vrAIretail\TOA.cpp.obj"
+"C:\Users\intel-vr-1\Transporter\_Intel_Innovators\Github\Oculus-Examples\Rift\vrAIretail\Intermediate\Build\Win64\UE4Editor\Development\vrAIretail\vrAIretail.cpp.obj"
+"C:\Users\intel-vr-1\Transporter\_Intel_Innovators\Github\Oculus-Examples\Rift\vrAIretail\Intermediate\Build\Win64\UE4Editor\Development\vrAIretail\vrAIretailGameModeBase.cpp.obj"
+"C:\Users\intel-vr-1\Transporter\_Intel_Innovators\Github\Oculus-Examples\Rift\vrAIretail\Intermediate\Build\Win64\UE4Editor\Development\vrAIretail\TOA.gen.cpp.obj"
+"C:\Users\intel-vr-1\Transporter\_Intel_Innovators\Github\Oculus-Examples\Rift\vrAIretail\Intermediate\Build\Win64\UE4Editor\Development\vrAIretail\vrAIretail.init.gen.cpp.obj"
+"C:\Users\intel-vr-1\Transporter\_Intel_Innovators\Github\Oculus-Examples\Rift\vrAIretail\Intermediate\Build\Win64\UE4Editor\Development\vrAIretail\vrAIretailGameModeBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\vrAIretail\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\intel-vr-1\Transporter\_Intel_Innovators\Github\Oculus-Examples\Rift\vrAIretail\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-vrAIretail-5614.lib"
