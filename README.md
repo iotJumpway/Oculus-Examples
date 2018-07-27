@@ -12,6 +12,8 @@ The iotJumpWay Oculus Tutorials/Examples provide example projects that you can u
 
 vrAIretail takes you from a blank Unreal Engine 4 Oculus project to a functioning Artificially Intelligent VR store assistant. To include voice synthesis, natural language understanding and the Internet of Things.
 
+- [Visit the vrAIretail tutorial](https://github.com/iotJumpway/Oculus-Examples/tree/master/Rift/vrAIretail "Visit the vrAIretail tutorial")
+
 ## Bugs/Issues
 
 Please feel free to create issues for bugs and general issues you come across whilst using this or any other Oculus related iotJumpWay issues. You may also use the issues area to ask for general help whilst using the iotJumpWay projects.
