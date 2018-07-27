@@ -6,7 +6,7 @@ vrAIretail takes you from a blank Unreal Engine 4 Oculus project to a functionin
 
 ## Bugs/Issues
 
-Please feel free to create issues for bugs and general issues you come across whilst using this or any other Oculus related iotJumpWay issues. You may also use the issues area to ask for general help whilst using the iotJumpWay in your IoT projects.
+Please feel free to create issues for bugs and general issues you come across whilst using this or any other Oculus related iotJumpWay issues. You may also use the issues area to ask for general help whilst using the iotJumpWay projects.
 
 ## Contributors
 
