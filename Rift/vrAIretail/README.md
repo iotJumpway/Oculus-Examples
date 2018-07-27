@@ -16,11 +16,15 @@ vrAIretail takes you from a blank Unreal Engine 4 Oculus project to a functionin
 
 ## Install Required Software
 
-Set up Unreal Engine and Visual Studio 2015, you need to that specific version of Visual Studio. Whilst installing Visual Studio 2015 you need to ensure that you install the C++ extras also. 
+Set up Unreal Engine and Visual Studio 2015, you need to that specific version of Visual Studio. Whilst installing Visual Studio 2015 you need to ensure that you install the C++ extras also.
 
-## Create Unreal Engine Project
+## Cloning The Repo
 
-The first step is to create an Unreal Engine project, from the projects window of Unreal Engine, select new project and create a new blank C++ project, make to sure to not include the starter content, we will import that later. 
+You will need to clone this repository to a location on your development terminal. Navigate to the directory you would like to download it to and issue the following commands.
+
+    $ git clone https://github.com/iotJumpway/Oculus-Examples.git
+
+Once you have the repo, you will need to find the files in this folder located in [Oculus-Examples/Rift/vrAIretail](https://github.com/iotJumpway/Oculus-Examples/tree/master/Rift/vrAIretail "Oculus-Examples/Rift/vrAIretail").
 
 ## Bugs/Issues
 
