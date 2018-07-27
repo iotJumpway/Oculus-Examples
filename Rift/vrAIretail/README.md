@@ -26,6 +26,14 @@ You will need to clone this repository to a location on your development termina
 
 Once you have the repo, you will need to find the files in this folder located in [Oculus-Examples/Rift/vrAIretail](https://github.com/iotJumpway/Oculus-Examples/tree/master/Rift/vrAIretail "Oculus-Examples/Rift/vrAIretail").
 
+## Open The Unreal Engine Project
+
+This part should work for you as far as I am aware, but if not there is an alternative following.
+
+![vrAIretail for Oculus Rift project location](_media/project-location.jpg)
+
+Go to [Oculus-Examples/Rift/vrAIretail](https://github.com/iotJumpway/Oculus-Examples/tree/master/Rift/vrAIretail "Oculus-Examples/Rift/vrAIretail") and you will see the  [Unreal Engine project file](https://github.com/iotJumpway/Oculus-Examples/blob/master/Rift/vrAIretail/vrAIretail.uproject "Unreal Engine project file"). 
+
 ## Bugs/Issues
 
 Please feel free to create issues for bugs and general issues you come across whilst using this or any other Oculus related iotJumpWay issues. You may also use the issues area to ask for general help whilst using the iotJumpWay projects.
