@@ -44,7 +44,7 @@ We will only use a very small amount of the Starter Content, but first we need t
 
 ## Add Walls
 
-[![Add Walls](_media/walls-video.png)](https://www.youtube.com/watch?v=JRB2fWXm-Fo)
+[![Add Walls](_media/walls-video.png)](https://www.youtube.com/watch?v=JRB2fWXm-Fo){:target="_blank"}
 
 Now we are going to add the walls to the room, you can follow the video tutorial by clicking on the image above.
 
