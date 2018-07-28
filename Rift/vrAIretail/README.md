@@ -71,9 +71,9 @@ If you follow the YouTube guide above you should now have a complete room, the o
 
 ## Create An Actor
 
-![Add Walls](_media/create-actor.png)
+![Add Walls](../../images/add-cpp-class.png)
 
-Now we need to create an actor that will become our Artificial Intelligence store assistant.
+Now we need to create an actor that will become our Artificial Intelligence store assistant. Right click in the content area and select **New C++ Class**, then select **Actor** and follow the steps to setup your Actor.
 
 
 ## Bugs/Issues
