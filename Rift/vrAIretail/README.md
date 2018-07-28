@@ -36,6 +36,12 @@ Once you have the repo, you will find the project files in [Oculus-Examples/Rift
 
 The first stage is for us to create a new Unreal Engine 4 project, as mentioned earlier I have used 4.19.2. I decided not to start the project with Starter Content, but to import the starter content after, the reason for this was, at least for me, that when I imported it when creating the projects, more maps etc were created. 
 
+## Add Starter Content
+
+![Create Unreal Engine Project](../../images/add-content.png)
+
+We will only use a very small amount of the Starter Content, but first we need to import it, click on the **Add New** button in the content window then select **Add Feature or Content Pack**, select **Content Packs** and **Starter Content**.
+
 ## Bugs/Issues
 
 Please feel free to create issues for bugs and general issues you come across whilst using this or any other Oculus related iotJumpWay issues. You may also use the issues area to ask for general help whilst using the iotJumpWay projects.
