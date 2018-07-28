@@ -71,12 +71,18 @@ If you follow the YouTube guide above you should now have a complete room, the o
 
 ## Create An Actor
 
-![Add Walls](../../images/add-cpp-class.png)
+![Create An Actor](../../images/add-cpp-class.png)
 
 Now we need to create an actor that will become our Artificial Intelligence store assistant. Right click in the content area and select **New C++ Class**, then select **Actor** and follow the steps to setup your Actor. Once you have created your Actor, Visual Studio 2015 should open and you should be able to access the C++ source code for your project and your Actor.
 
-![Add Walls](../../images/visual-studio-actor.png)
+![Create An Actor](../../images/visual-studio-actor.png)
 
+In my project I created the Actor TOA, you can find the files below:
+
+- [TOA.h](https://github.com/iotJumpway/Oculus-Examples/blob/master/Rift/vrAIretail/Source/vrAIretail/TOA.h "TOA.h")
+- [TOA.cpp](https://github.com/iotJumpway/Oculus-Examples/blob/master/Rift/vrAIretail/Source/vrAIretail/TOA.cpp "TOA.cpp")
+
+In these files we create a spinning actor that will become our Artificially Intelligent store assistant. Add the code linked above into your own actor files, making sure to replace any project specific information with your own.
 
 ## Bugs/Issues
 
