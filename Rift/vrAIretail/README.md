@@ -2,7 +2,7 @@
 
 ![iotJumpWay Oculus Examples](_media/vrAIretail.png)
 
-vrAIretail takes you from a blank Unreal Engine 4 Oculus project to a functioning Artificially Intelligent VR store assistant. To include voice synthesis, natural language understanding and the Internet of Things.
+vrAIretail takes you from a blank Unreal Engine 4 Oculus project to a functioning Artificially Intelligent VR store assistant. The project includes voice synthesis, voice recognition, natural language understanding and the Internet of Things.
 
 ## Software Requirements
 
@@ -14,11 +14,26 @@ vrAIretail takes you from a blank Unreal Engine 4 Oculus project to a functionin
 - 1 x VR ready machine
 - 1 x [Oculus Rift](https://software.intel.com/en-us/ai-academy/tools/devcloud "Oculus Rift")
 
+## What Will We Make?
+
+Recently I joined the VR program of the Intel Software Innovators program, after being involved in the IoT and AI programs for around a year. This project documents my first ever VR project. 
+
+In this tutorial you will learn how to create an Artificial Intelligence Virtual Reality store assistant that can understand your spoken requests and show you the products you want. We will use the iotJumpWay platform to communicate with possible back end applications or ordering systems. 
+
+The project is a work in progress and will be updated regularly. Below you will find everything covered in this tutorial:
+
+- Install Required Software
+- Cloning The Repo (Optional)
+- Create Unreal Engine Project
+- Add Starter Content
+- Add Walls
+- Create An Actor
+
 ## Install Required Software
 
-Set up Unreal Engine and Visual Studio 2015, you need to that specific version of Visual Studio. Whilst installing Visual Studio 2015 you need to ensure that you install the C++ extras also.
+Set up Unreal Engine and Visual Studio 2015, you need to install that specific version of Visual Studio. Whilst installing Visual Studio 2015 you need to ensure that you install the C++ extras also.
 
-## Cloning The Repo
+## Cloning The Repo (Optional)
 
 You can optionally download the full code by cloning this repository to a location on your development terminal. This is the first time I have shared an Unreal Engine project to Github so if anything does not work please alert me via the repo Issues.
 
@@ -34,7 +49,7 @@ Once you have the repo, you will find the project files in [Oculus-Examples/Rift
 
 ![Create Unreal Engine Project](../../images/new-project.png)
 
-The first stage is for us to create a new Unreal Engine 4 project, as mentioned earlier I have used 4.19.2. I decided not to start the project with Starter Content, but to import the starter content after, the reason for this was, at least for me, that when I imported it when creating the projects, more maps etc were created. 
+The first stage is for us to create a new Unreal Engine 4 project, as mentioned earlier I have used 4.19.2. I decided not to start the project with Starter Content, but to import the starter content after, the reason for this was at least for me when I imported it when creating the projects more maps etc were created. 
 
 ## Add Starter Content
 
@@ -46,13 +61,19 @@ We will only use a very small amount of the Starter Content, but first we need t
 
 [![Add Walls](_media/walls-video.png)](https://www.youtube.com/watch?v=JRB2fWXm-Fo)
 
-Now we are going to add the walls to the room, you can follow the video tutorial by clicking on the image above.
+Now we are going to add the walls to the room, you can follow the video tutorial by clicking on the image above (Opens in same window).
 
 ![Add Walls](_media/walls.png)
 
-If you the follow the YouTube guide above you should now have a complete room, the only thing not shown in the video is adding the floor coloring, you can do this by repeating the steps shown for the walls.
+If you follow the YouTube guide above you should now have a complete room, the only thing not shown in the video is adding the floor coloring, you can do this by repeating the steps shown for the walls.
 
 ![Add Walls](_media/walls-complete.png)
+
+## Create An Actor
+
+![Add Walls](_media/create-actor.png)
+
+Now we need to create an actor that will become our Artificial Intelligence store assistant.
 
 
 ## Bugs/Issues
@@ -61,5 +82,5 @@ Please feel free to create issues for bugs and general issues you come across wh
 
 ## Contributors
 
-[![Adam Milton-Barker, Intel® Software Innovator](../../images/Intel-Software-Innovator.jpg)](https://github.com/iotJumpway)
+[![Adam Milton-Barker, Intel® Software Innovator](../../images/Intel-Software-Innovator.jpg)](https://www.adammiltonbarker.com)
 
