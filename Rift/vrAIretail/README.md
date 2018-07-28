@@ -42,6 +42,12 @@ The first stage is for us to create a new Unreal Engine 4 project, as mentioned 
 
 We will only use a very small amount of the Starter Content, but first we need to import it, click on the **Add New** button in the content window then select **Add Feature or Content Pack**, select **Content Packs** and **Starter Content**.
 
+## Add Walls
+
+[![Add Walls](_media/walls-video.png)](https://www.youtube.com/watch?v=JRB2fWXm-Fo)
+
+Now we are going to add the walls to the room, you can follow the video tutorial by clicking on the image above.
+
 ## Bugs/Issues
 
 Please feel free to create issues for bugs and general issues you come across whilst using this or any other Oculus related iotJumpWay issues. You may also use the issues area to ask for general help whilst using the iotJumpWay projects.
