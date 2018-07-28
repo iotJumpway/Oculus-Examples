@@ -61,7 +61,7 @@ We will only use a very small amount of the Starter Content, but first we need t
 
 [![Add Walls](_media/walls-video.png)](https://www.youtube.com/watch?v=JRB2fWXm-Fo)
 
-Now we are going to add the walls to the room, you can follow the video tutorial by clicking on the image above (Opens in same window).
+Now we are going to add the walls to the room, you can follow the video tutorial by clicking on the image above (Opens in same window). In the video above you are shown how to use the walls from the Starter Content to create the walls for your room.
 
 ![Add Walls](_media/walls.png)
 
@@ -73,7 +73,9 @@ If you follow the YouTube guide above you should now have a complete room, the o
 
 ![Add Walls](../../images/add-cpp-class.png)
 
-Now we need to create an actor that will become our Artificial Intelligence store assistant. Right click in the content area and select **New C++ Class**, then select **Actor** and follow the steps to setup your Actor.
+Now we need to create an actor that will become our Artificial Intelligence store assistant. Right click in the content area and select **New C++ Class**, then select **Actor** and follow the steps to setup your Actor. Once you have created your Actor, Visual Studio 2015 should open and you should be able to access the C++ source code for your project and your Actor.
+
+![Add Walls](../../images/visual-studio-actor.png)
 
 
 ## Bugs/Issues
