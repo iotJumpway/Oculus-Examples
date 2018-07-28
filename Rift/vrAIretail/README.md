@@ -97,7 +97,7 @@ Next you want to create an Actor, go back to Unreal Engine and drag your Actor o
 
 We want our Actor to say hello when the program first starts. For this we will use Microsoft SAPI, you may of already noticed the code for this section when you were adding **TOA.h** and **TOA.cpp** to the project.
 
-![Add Microsoft SAPI (Speech Synthesis)](_media/speech-synthesis-video.png)
+[![Add Microsoft SAPI (Speech Synthesis)](_media/speech-synthesis-video.png)](https://www.youtube.com/watch?v=tiImtJB7Py4)
 
 At this stage it is possible to run the program on your headset. What I found was that the SAPI was blocking the main thread, meaning that you would hear the speech first and then the VR will load, additional attempting to use SAPI once the VR has loaded results in freezing.
 
