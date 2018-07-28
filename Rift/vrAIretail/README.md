@@ -84,6 +84,10 @@ In my project I created the Actor TOA, you can find the files below:
 
 In these files we create a spinning actor that will become our Artificially Intelligent store assistant. Add the code linked above into your own actor files, making sure to replace any project specific information with your own.
 
+![Create An Actor](../../images/attach-mesh-actor.png)
+
+Next you want to create an Actor, go back to Unreal Engine and drag your Actor on into the scene, click on **Add Component** and select **Cube**.
+
 ## Bugs/Issues
 
 Please feel free to create issues for bugs and general issues you come across whilst using this or any other Oculus related iotJumpWay issues. You may also use the issues area to ask for general help whilst using the iotJumpWay projects.
