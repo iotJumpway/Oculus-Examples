@@ -48,6 +48,13 @@ We will only use a very small amount of the Starter Content, but first we need t
 
 Now we are going to add the walls to the room, you can follow the video tutorial by clicking on the image above.
 
+![Add Walls](_media/walls.png)
+
+If you the follow the YouTube guide above you should now have a complete room, the only thing not shown in the video is adding the floor coloring, you can do this by repeating the steps shown for the walls.
+
+![Add Walls](_media/walls-complete.png)
+
+
 ## Bugs/Issues
 
 Please feel free to create issues for bugs and general issues you come across whilst using this or any other Oculus related iotJumpWay issues. You may also use the issues area to ask for general help whilst using the iotJumpWay projects.
