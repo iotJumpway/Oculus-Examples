@@ -20,19 +20,21 @@ Set up Unreal Engine and Visual Studio 2015, you need to that specific version o
 
 ## Cloning The Repo
 
-You will need to clone this repository to a location on your development terminal. Navigate to the directory you would like to download it to and issue the following commands.
+You can optionally download the full code by cloning this repository to a location on your development terminal. This is the first time I have shared an Unreal Engine project to Github so if anything does not work please alert me via the repo Issues.
+
+Navigate to the directory you would like to download it to and issue the following commands.
 
     $ git clone https://github.com/iotJumpway/Oculus-Examples.git
 
-Once you have the repo, you will need to find the files in this folder located in [Oculus-Examples/Rift/vrAIretail](https://github.com/iotJumpway/Oculus-Examples/tree/master/Rift/vrAIretail "Oculus-Examples/Rift/vrAIretail").
-
-## Open The Unreal Engine Project
-
-This part should work for you as far as I am aware, but if not there is an alternative following.
-
 ![vrAIretail for Oculus Rift project location](_media/project-location.jpg)
 
-Go to [Oculus-Examples/Rift/vrAIretail](https://github.com/iotJumpway/Oculus-Examples/tree/master/Rift/vrAIretail "Oculus-Examples/Rift/vrAIretail") and you will see the  [Unreal Engine project file](https://github.com/iotJumpway/Oculus-Examples/blob/master/Rift/vrAIretail/vrAIretail.uproject "Unreal Engine project file"). 
+Once you have the repo, you will find the project files in [Oculus-Examples/Rift/vrAIretail](https://github.com/iotJumpway/Oculus-Examples/tree/master/Rift/vrAIretail "Oculus-Examples/Rift/vrAIretail").
+
+## Create Unreal Engine Project
+
+![Create Unreal Engine Project](../../images/new-project.png)
+
+The first stage is for us to create a new Unreal Engine 4 project, as mentioned earlier I have used 4.19.2. I decided not to start the project with Starter Content, but to import the starter content after, the reason for this was, at least for me, that when I imported it when creating the projects, more maps etc were created. 
 
 ## Bugs/Issues
 
