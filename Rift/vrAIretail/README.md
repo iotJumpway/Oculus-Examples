@@ -28,6 +28,7 @@ The project is a work in progress and will be updated regularly. Below you will 
 - Add Starter Content
 - Add Walls
 - Create An Actor
+- Add Microsoft SAPI (Speech Synthesis)
 
 ## Install Required Software
 
@@ -84,9 +85,17 @@ In my project I created the Actor TOA, you can find the files below:
 
 In these files we create a spinning actor that will become our Artificially Intelligent store assistant. Add the code linked above into your own actor files, making sure to replace any project specific information with your own.
 
+The code in the above files that is relevant to this stage of development basically does the following:
+
+- Makes the Actor spin
+
 ![Create An Actor](../../images/attach-mesh-actor.png)
 
 Next you want to create an Actor, go back to Unreal Engine and drag your Actor on into the scene, click on **Add Component** and select **Cube**.
+
+## Add Microsoft SAPI (Speech Synthesis)
+
+We want our Actor to say hello when the program first starts. For this we will use Microsoft SAPI, you may of already noticed the code for this section when you were adding **TOA.h** and **TOA.cpp** to the project.
 
 ## Bugs/Issues
 
