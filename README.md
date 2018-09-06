@@ -29,5 +29,5 @@ Please feel free to create issues for bugs and general issues you come across wh
 
 ## Contributors
 
-[![Adam Milton-Barker, Bigfinite IoT Network Engineer & Intel® Software Innovator](../../images/AdamMilton-Barker.jpg)](https://www.adammiltonbarker.com)
+[![Adam Milton-Barker, Bigfinite IoT Network Engineer & Intel® Software Innovator](images/AdamMilton-Barker.jpg)](https://www.adammiltonbarker.com)
 
