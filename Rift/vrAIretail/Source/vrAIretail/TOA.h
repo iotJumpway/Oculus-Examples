@@ -16,7 +16,7 @@ public:
 	ATOA();
 
 protected:
-	// Called when the game starts or when spawned
+	// Called when TOA has been created
 	virtual void BeginPlay() override;
 
 public:

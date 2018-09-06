@@ -9,21 +9,18 @@
 // Sets default values
 ATOA::ATOA()
 {
-	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
+	// Set this actor to call Tick() every frame
 	PrimaryActorTick.bCanEverTick = true;
 	TOAMesh = CreateDefaultSubobject<UStaticMeshComponent>("TOA");
 
 	PitchValue = 0.f;
-	YawValue = 0.f;
-	RollValue = 0.f;
+	YawValue   = 0.f;
+	RollValue  = 0.f;
 
 }
 
-// Called when the game starts or when spawned
-void ATOA::BeginPlay()
+void Welcome()
 {
-	Super::BeginPlay();
-
 	ISpVoice * pVoice = NULL;
 
 	HRESULT hr = CoCreateInstance(CLSID_SpVoice, NULL, CLSCTX_ALL, IID_ISpVoice, (void **)&pVoice);
@@ -37,7 +34,14 @@ void ATOA::BeginPlay()
 	}
 	pVoice->Release();
 	pVoice = NULL;
+}
 
+// Called when the game starts or when spawned
+void ATOA::BeginPlay()
+{
+	Super::BeginPlay();
+	FTimerHandle TOA;
+	TFuture<void> A = Async<void>(EAsyncExecution::Thread, Welcome);
 }
 
 // Called every frame

@@ -1,10 +1,10 @@
-# Intelligent Virtual Store Assistant for Oculus Rift
+# Intelligent VR Store Assistant for Oculus Rift
 
-![Intelligent Virtual Store Assistant for Oculus Rift](images/vrAIretail.png)
+![Intelligent VR Store Assistant for Oculus Rift](images/vrAIretail.png)
 
 Recently I joined the VR program of the Intel Software Innovators program, after being involved in the IoT and AI programs for around a year. This project documents my first ever VR project. 
 
-Intelligent Virtual Store Assistant for Oculus Rift takes you from a blank Unreal Engine 4 Oculus project to a functioning Artificially Intelligent VR store assistant. The project includes voice synthesis, voice recognition, natural language understanding and the Internet of Things.
+Intelligent VR Store Assistant for Oculus Rift takes you from a blank Unreal Engine 4 Oculus project to a functioning Artificially Intelligent VR store assistant. The project includes voice synthesis, voice recognition, natural language understanding and the Internet of Things.
 
 ## Software Requirements
 
@@ -135,7 +135,14 @@ void ATOA::BeginPlay()
 }
 ```
 
+# Contributing
+Please read **CONTRIBUTING.md** for details on our code of conduct, and the process for submitting pull requests to us.
 
+# Versioning
+We use SemVer for versioning. For the versions available, see the tags on this repository.
+
+# License
+This project is licensed under the **MIT License** - see the **LICENSE.md** file for details
 
 ## Bugs/Issues
 
