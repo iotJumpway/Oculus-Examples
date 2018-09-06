@@ -146,11 +146,10 @@ Please feel to contribute by submitting pull requests, you can read [CONTRIBUTIN
 We use SemVer for versioning. For the versions available, see the tags on this repository and the [RELEASES.md](https://github.com/iotJumpway/Oculus-Examples/blob/master/RELEASES.md "RELEASES.md").
 
 # License
-This project is licensed under the **MIT License** - see the [LICENSE.md](https://github.com/iotJumpway/Oculus-Examples/blob/master/LICENSE.md "LICENSE.md") file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/iotJumpway/Oculus-Examples/blob/master/LICENSE "LICENSE") file for details.
 
 # Bugs/Issues
 Please feel free to create [issues](https://github.com/iotJumpway/Oculus-Examples/issues "issues") for bugs and general issues you come across whilst using this or any other Oculus related iotJumpWay issues. You may also use the issues area to ask for general help whilst using the iotJumpWay projects.
 
 # Author
-[Adam Milton-Barker, Bigfinite IoT Network Engineer & Intel® Software Innovator (IoT, AI, VR)](https://www.adammiltonbarker.com "Adam Milton-Barker, Bigfinite IoT Network Engineer & Intel® Software Innovator (IoT, AI, VR)")
 [![Adam Milton-Barker, Bigfinite IoT Network Engineer & Intel® Software Innovator](../../images/AdamMilton-Barker.jpg)](https://www.adammiltonbarker.com)
