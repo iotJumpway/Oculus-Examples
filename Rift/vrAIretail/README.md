@@ -137,7 +137,7 @@ void ATOA::BeginPlay()
 
 You can view the video by click on the video graphic below:
 
-[![Speech Synthesis using SAPI in Unreal Engine 4](images/Speech-Synthesis.png)](https://www.youtube.com/watch?v=OJOHfRUCgg4)
+[![Speech Synthesis using SAPI in Unreal Engine 4](images/Speech-Synthesis.jpg)](https://www.youtube.com/watch?v=OJOHfRUCgg4)
 
 # Contributing
 Please read **CONTRIBUTING.md** for details on our code of conduct, and the process for submitting pull requests to us.
