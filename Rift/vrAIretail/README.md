@@ -140,18 +140,17 @@ You can view the video by click on the video graphic below:
 [![Speech Synthesis using SAPI in Unreal Engine 4](images/Speech-Synthesis.jpg)](https://www.youtube.com/watch?v=OJOHfRUCgg4)
 
 # Contributing
-Please read **CONTRIBUTING.md** for details on our code of conduct, and the process for submitting pull requests to us.
+Please feel to contribute by submitting pull requests, you can read [CONTRIBUTING.md](https://github.com/iotJumpway/Oculus-Examples/blob/master/CONTRIBUTING.md "CONTRIBUTING.md") for details on our code of conduct, and the process for submitting pull requests to us.
 
 # Versioning
-We use SemVer for versioning. For the versions available, see the tags on this repository.
+We use SemVer for versioning. For the versions available, see the tags on this repository and the [RELEASES.md](https://github.com/iotJumpway/Oculus-Examples/blob/master/RELEASES.md "RELEASES.md").
 
 # License
-This project is licensed under the **MIT License** - see the **LICENSE.md** file for details
+This project is licensed under the **MIT License** - see the [RELEASES.md](https://github.com/iotJumpway/Oculus-Examples/blob/master/RELEASES.md "RELEASES.md") file for details
 
-## Bugs/Issues
+# Bugs/Issues
+Please feel free to create [issues](https://github.com/iotJumpway/Oculus-Examples/issues "issues") for bugs and general issues you come across whilst using this or any other Oculus related iotJumpWay issues. You may also use the issues area to ask for general help whilst using the iotJumpWay projects.
 
-Please feel free to create issues for bugs and general issues you come across whilst using this or any other Oculus related iotJumpWay issues. You may also use the issues area to ask for general help whilst using the iotJumpWay projects.
-
-## Contributors
-
+# Author
+[Adam Milton-Barker, Bigfinite IoT Network Engineer & Intel® Software Innovator (IoT, AI, VR)](https://www.adammiltonbarker.com "Adam Milton-Barker, Bigfinite IoT Network Engineer & Intel® Software Innovator (IoT, AI, VR)")
 [![Adam Milton-Barker, Bigfinite IoT Network Engineer & Intel® Software Innovator](../../images/AdamMilton-Barker.jpg)](https://www.adammiltonbarker.com)
